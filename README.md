@@ -1,9 +1,8 @@
 # KQR-Backtesting-Project
+: KQR Backtesting Project Repository
 
-## KQR (Korea Univ. Quant Research)
+**KQR (Korea Univ. Quant Research)**
 *2021.09 ~ 2022.01*
-
-<KQR Backtesting Project Repository>
 
 ## Project 1
 ### 강환국의 슈퍼 가치 전략 Backtesting
